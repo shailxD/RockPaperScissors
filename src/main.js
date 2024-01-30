@@ -70,9 +70,9 @@ result.addEventListener("click", function () {
 resetToggle.addEventListener("click", init);
 
 const buttonMap = {
-  "🪨": "Illustrations/left_1.png",
-  "📃": "Illustrations/left_2.png",
-  "✂️": "Illustrations/left_3.png",
+  "🪨": "/left_1.png",
+  "📃": "/left_2.png",
+  "✂️": "/left_3.png",
 };
 
 // Setter function
@@ -84,7 +84,7 @@ function rockPaperScissor(e) {
     buttonMap.hasOwnProperty(emoji)
       ? (imageLeftSrc.src = buttonMap[emoji])
       : console.log("Error");
-    imageRightSrc.src = `Illustrations/right_${random}.png`;
+    imageRightSrc.src = `/right_${random}.png`;
 
     compareSelections(emoji, random);
   }
