@@ -5,6 +5,8 @@ import "../style/style.css";
 
 // JavaScript Component
 import darkMode from "./utils/dark-mode";
+import preloadImages from "./utils/imgPreloader";
+
 darkMode();
 
 // Title
@@ -138,3 +140,7 @@ function compareSelections(userSelection, computerSelection) {
 options.forEach(function (option) {
   option.addEventListener("click", rockPaperScissor);
 });
+
+window.onload = function () {
+  preloadImages();
+};
