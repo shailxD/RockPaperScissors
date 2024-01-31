@@ -155,7 +155,7 @@ button {
   margin: 2rem 0 0 2rem;
 }
 
-.repeatbtn{
+.repeatbtn {
   cursor: pointer;
 }
 
@@ -205,10 +205,7 @@ button {
 /* @media (min-width: 768px) {} */
 
 /* lg */
-/* @media (min-width: 1024px) {} */
-
-/* xl */
-@media (min-width: 1280px) {
+@media (min-width: 1024px) {
   .title__container {
     width: 35vw;
     height: 63vh;
@@ -266,6 +263,23 @@ button {
 
   .title__Win {
     font-size: var(--size-9xl);
+  }
+}
+
+/* xl */
+@media (min-width: 1280px) {
+  .hand__Left img {
+    position: fixed;
+    transform: translate(-1rem, 4rem);
+    width: 40vw;
+    height: auto;
+  }
+
+  .hand__Right img {
+    position: fixed;
+    transform: translate(49rem, 4rem);
+    width: 40vw;
+    height: auto;
   }
 }
 
