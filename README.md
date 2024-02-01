@@ -19,7 +19,7 @@ And it's also responsive, even on your mobile! 🤳
 
 <table>
   <tr>
-    <td align="center"><img src="./public/assests/reponsive_1.webp" width="100%" height="auto"></td>
-    <td align="center"><img src="./public/assests/reponsive_2.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assests/responsive_1.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assests/responsive_2.webp" width="100%" height="auto"></td>
   </tr>
 </table>
