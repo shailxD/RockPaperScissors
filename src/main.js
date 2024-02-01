@@ -56,6 +56,9 @@ const init = function () {
   title.classList.remove("hidden");
   win.classList.add("hidden");
 
+  imageLeftSrc.src = `/left_1.webp`;
+  imageRightSrc.src = `/right_1.webp`;
+
   resultText.textContent = `Let's Play`;
 };
 init();
