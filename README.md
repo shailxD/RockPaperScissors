@@ -2,18 +2,24 @@
 
 Welcome to "RockPaperScissors" – the coolest game spot on the web! Dive into classic rivalry with our HTML, CSS, and Vanilla JavaScript-powered website. Play against the computer in a visually stunning, responsive design. Unleash the fun – where rocks, papers, and scissors rule the digital playground! 🏆
 
-And here are some ScreenShots 👇💻
+### And here are some ScreenShots 👇💻
 
-![img1_Light](./public/assests/img1_Light.webp)
+<table>
+  <tr>
+    <td align="center"><img src="./public/assests/img1_Light.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assests/img1_Dark.webp" width="100%" height="auto"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./public/assests/img2_Dark.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assests/img2_Light.webp" width="100%" height="auto"></td>
+  </tr>
+</table>
 
-![img1_Dark](./public/assests/img1_Dark.webp)
+### And it's also responsive, even on your mobile! 🤳
 
-![img2_Dark](./public/assests/img2_Dark.webp)
-
-![img2_Light](./public/assests/img2_Light.webp)
-
-And it's also responsive, even on your mobile! 🤳
-
-![responsive_(Samsung Galaxy S20 Ultra)](./public/assests/responsive_(Samsung Galaxy S20 Ultra).webp)
-
-![responsive_(Samsung Galaxy S20 Ultra)2](./public/assests/responsive_(Samsung Galaxy S20 Ultra)2.webp)
+<table>
+  <tr>
+    <td align="center"><img src="./public/assests/responsive_1.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assests/responsive_2.webp" width="100%" height="auto"></td>
+  </tr>
+</table>
