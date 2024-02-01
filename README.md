@@ -6,12 +6,12 @@ Welcome to "RockPaperScissors" – the coolest game spot on the web! Dive into c
 
 <table>
   <tr>
-    <td align="center"><img src="./public/assests/img1_Light.webp" width="100%" height="auto"></td>
-    <td align="center"><img src="./public/assests/img1_Dark.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img1_Light.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img1_Dark.webp" width="100%" height="auto"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./public/assests/img2_Dark.webp" width="100%" height="auto"></td>
-    <td align="center"><img src="./public/assests/img2_Light.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img2_Dark.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/img2_Light.webp" width="100%" height="auto"></td>
   </tr>
 </table>
 
@@ -19,7 +19,7 @@ Welcome to "RockPaperScissors" – the coolest game spot on the web! Dive into c
 
 <table>
   <tr>
-    <td align="center"><img src="./public/assests/responsive_1.webp" width="100%" height="auto"></td>
-    <td align="center"><img src="./public/assests/responsive_2.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/responsive_1.webp" width="100%" height="auto"></td>
+    <td align="center"><img src="./public/assets/responsive_2.webp" width="100%" height="auto"></td>
   </tr>
 </table>
