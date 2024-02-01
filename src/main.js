@@ -2,6 +2,8 @@
 
 // CSS
 import "../style/style.css";
+import "../style/utils.css";
+import "../style/component.css";
 
 // JavaScript Component
 import darkMode from "./utils/dark-mode";
