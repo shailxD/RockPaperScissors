@@ -4,8 +4,8 @@ Welcome to "RockPaperScissors" – the coolest game spot on the web! Dive into c
 
 And here are some ScreenShots 👇💻
 
-(|<img width="600" alt="img1_Light" src="./public/assests/img1_Light.webp"> | <img width="600" alt="img1_Dark" src="./public/assests/img1_Dark.webp">|
-|:-------------------------:|:-------------------------:|
-|<img width="600" alt="img2_Dark" src="./public/assests/img2_Dark.webp"> | <img width="600" alt="img2_Light" src="./public/assests/img2_Light.webp">|)
+<img src="./public/assests/img1_Light.webp" width="50%" height="auto"> <img src="./public/assests/img1_Dark.webp" width="50%" height="auto">
+<br>
+<img src="./public/assests/img2_Dark.webp" width="50%" height="auto"> <img src="./public/assests/img2_Light.webp" width="50%" height="auto">
 
 And it's also responsive, even on your mobile! 🤳
