@@ -4,7 +4,7 @@ Welcome to "RockPaperScissors" – the coolest game spot on the web! Dive into c
 
 And here are some ScreenShots 👇💻
 
-<img src="./public/assests/img1_Light.webp" width=600 height=300>
+<img src="./public/assests/img1_Light.webp" width=600 height=auto>
 
 ![img1_Dark](./public/assests/img1_Dark.webp)
 
