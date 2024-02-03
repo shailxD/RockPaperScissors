@@ -285,10 +285,6 @@
 
 /* xs */
 @media (max-width: 475px) {
-  body{
-    zoom: 2;
-  }
-
   .title__Rock {
     margin-top: 2rem;
     font-size: var(--size-7xl);
