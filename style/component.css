@@ -285,20 +285,32 @@
 
 /* xs */
 @media (max-width: 475px) {
+  .title__Rock {
+    margin-top: 2rem;
+    font-size: var(--size-7xl);
+  }
+
+  .title__Paper {
+    font-size: 3.65rem;
+    transform: translateY(-1rem);
+  }
+
+  .title__Scissor {
+    font-size: 2.75rem;
+    transform: translateY(-1.7rem);
+  }
+
+  .title__Win {
+    font-size: var(--size-7xl);
+  }
+
   .selection {
-    margin-bottom: 43vh;
+    margin-bottom: 35vh;
+    font-size: var(--size-4xl);
   }
 
   .result {
-    margin-bottom: 17rem;
-  }
-
-  .hand__Left img {
-    transform: translateY(13rem);
-  }
-
-  .hand__Right img {
-    transform: translateY(13rem);
+    margin-bottom: 18vh;
   }
 
   .result p {
@@ -313,11 +325,11 @@
   }
 
   .User {
-    margin: 0 0 10rem 2rem;
+    margin: 0 0 2rem 2rem;
   }
 
   .Computer {
-    margin: 0 2rem 10rem 0;
+    margin: 0 2rem 2rem 0;
   }
 }
 

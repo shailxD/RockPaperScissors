@@ -87,7 +87,7 @@ function rockPaperScissor(e) {
   const emoji = e.target.textContent;
   if (playing) {
     let random = Math.trunc(Math.random() * 3) + 1;
-
+    console.log(random);
     buttonMap.hasOwnProperty(emoji)
       ? (imageLeftSrc.src = buttonMap[emoji])
       : console.log("Error");
