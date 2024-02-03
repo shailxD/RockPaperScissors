@@ -267,7 +267,7 @@
 
   .selection {
     gap: 1.5rem;
-    margin-bottom: 33vh;
+    margin-bottom: 19rem;
   }
 
   .result p {
@@ -287,16 +287,16 @@
 @media (max-width: 475px) {
   .title__Rock {
     margin-top: 2rem;
-    font-size: var(--size-7xl);
+    font-size: 5rem;
   }
 
   .title__Paper {
-    font-size: 3.65rem;
+    font-size: 4.05rem;
     transform: translateY(-1rem);
   }
 
   .title__Scissor {
-    font-size: 2.75rem;
+    font-size: 3rem;
     transform: translateY(-1.7rem);
   }
 
@@ -305,12 +305,12 @@
   }
 
   .selection {
-    margin-bottom: 35vh;
+    margin-bottom: 15rem;
     font-size: var(--size-4xl);
   }
 
   .result {
-    margin-bottom: 18vh;
+    margin-bottom: 8rem;
   }
 
   .result p {
